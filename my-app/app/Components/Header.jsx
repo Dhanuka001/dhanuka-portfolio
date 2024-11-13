@@ -11,7 +11,7 @@ export default function Header() {
       
     </div>
     <div className="flex  space-x-8">
-    <a className="text-center items-center justify-center px-3 py-1 rounded-lg hover:bg-gray-100" href='#'>Work Experience</a>
+    <a className="text-center items-center justify-center px-3 py-1 rounded-lg hover:bg-gray-100" href='#experience'>Work Experience</a>
       <a className="text-center items-center justify-center px-3 py-1 rounded-lg hover:bg-gray-100" href='#projects'>Projects</a>
       <a className="text-center items-center justify-center px-3 py-1 rounded-lg hover:bg-gray-100" href='#about'>About</a>
       <a className="text-center items-center justify-center px-3 py-1 rounded-lg hover:bg-gray-100" href='#contact'>Contact Me</a>

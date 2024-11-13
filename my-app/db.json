@@ -41,6 +41,24 @@
         "technologies": ["Next.js", "Express", "MongoDB"],
         "link": "#"
       }
-    ]
+    ],
+
+    "experience": [
+    {
+      "id": 1,
+      "yearRange": "2024 Sep - Present",
+      "position": "Intern Software Engineer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "company": "MicroWeb Global PVT LTD"
+    },
+    {
+      "id": 2,
+      "yearRange": "2021- Present",
+      "position": "Freelance Concept Artist",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "company": "Fiverr"
+    }
+ 
+  ]
   }
   
